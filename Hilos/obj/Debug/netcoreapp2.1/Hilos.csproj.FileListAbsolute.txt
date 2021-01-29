@@ -1,0 +1,11 @@
+c:\users\mau_l\source\repos\Hilos\Hilos\bin\Debug\netcoreapp2.1\Hilos.deps.json
+c:\users\mau_l\source\repos\Hilos\Hilos\bin\Debug\netcoreapp2.1\Hilos.runtimeconfig.json
+c:\users\mau_l\source\repos\Hilos\Hilos\bin\Debug\netcoreapp2.1\Hilos.runtimeconfig.dev.json
+c:\users\mau_l\source\repos\Hilos\Hilos\bin\Debug\netcoreapp2.1\Hilos.dll
+c:\users\mau_l\source\repos\Hilos\Hilos\bin\Debug\netcoreapp2.1\Hilos.pdb
+c:\users\mau_l\source\repos\Hilos\Hilos\obj\Debug\netcoreapp2.1\Hilos.csprojAssemblyReference.cache
+c:\users\mau_l\source\repos\Hilos\Hilos\obj\Debug\netcoreapp2.1\Hilos.csproj.CoreCompileInputs.cache
+c:\users\mau_l\source\repos\Hilos\Hilos\obj\Debug\netcoreapp2.1\Hilos.AssemblyInfoInputs.cache
+c:\users\mau_l\source\repos\Hilos\Hilos\obj\Debug\netcoreapp2.1\Hilos.AssemblyInfo.cs
+c:\users\mau_l\source\repos\Hilos\Hilos\obj\Debug\netcoreapp2.1\Hilos.dll
+c:\users\mau_l\source\repos\Hilos\Hilos\obj\Debug\netcoreapp2.1\Hilos.pdb
